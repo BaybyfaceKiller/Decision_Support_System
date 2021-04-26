@@ -9,9 +9,9 @@ This project applies machine learning knowledge through document classification 
 classifier. The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups.
 ## Recommender System
 This project involves creating a recommender engine, evaluating it to understand its
-performance, and making changes to improve performance. The recommendation dataset will be used is from a collection called MovieLens, which
+performance, and making changes to improve performance. The recommendation dataset was used is from a collection called MovieLens, which
 contains users’ movie ratings and is popular for implementing and testing recommender systems.
-The specific dataset we will be using for this lab is MovieLens 100K Dataset which contains 100,000
+The specific dataset used for this project is MovieLens 100K Dataset which contains 100,000
 movie ratings from 943 users and a selection of 1682 movies.
 ## Hotel Reviews Analysis
 This project involves performing analysis of real hotel review data crawled from the
@@ -19,4 +19,4 @@ Tripadvisor website to automatically identify positive and negative keywords and
 with hotels and to better understand characteristics of data analysis tools, extracting explanatory
 review summaries, and human reviewing behavior.
 ## Social Network Analysis
-This project involves social network analysis based on twitter data. This project helps to better understanding graph analysis methods, as well as different centrality measures in the graph, and edge prediction.
+This project involves social network analysis based on twitter data. This project helps to better understand graph analysis methods, as well as different centrality measures in the graph, and edge prediction.
